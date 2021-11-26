@@ -1,0 +1,4 @@
+#Fri Nov 26 12:45:44 EET 2021
+base.0=/Users/edanurakbas/Documents/Study/BoatStack-Clone/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
